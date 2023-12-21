@@ -1,2 +1,2 @@
-# practise
-To Pratice git comments
+# practiseRe
+To Pratice git commends
